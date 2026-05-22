@@ -104,11 +104,3 @@ Tests run on hand-built fixture data and do not require spaCy or any model downl
 
 * 0.1.0 — Package restructure, CLI, coverage + mine analyses, perf-rewritten 1T counter, pytest suite.
 * 0.0.1 — Initial Hill1t script.
-
-## Contributing
-
-1. Fork it (<https://github.com/refold-languages/community-projects/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
