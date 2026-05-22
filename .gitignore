@@ -161,3 +161,29 @@ cython_debug/
 #.idea/
 
 # End of https://www.toptal.com/developers/gitignore/api/python
+
+### Empyrical-specific ###
+
+# Anki deck exports — binary, often personal/private
+*.apkg
+*.colpkg
+
+# Outputs from the example commands in README.md (anchored to project root so
+# they don't accidentally hide same-named files inside images/, examples/, etc.)
+/hill1t.csv
+/hill1t.png
+/coverage.csv
+/coverage.png
+/mine.jsonl
+/known_*.txt
+
+### Editors / IDEs ###
+.vscode/
+.idea/
+*.swp
+*.swo
+
+### OS junk ###
+.DS_Store
+Thumbs.db
+desktop.ini
